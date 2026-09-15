@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="gasbuddy-scraper-api" />
+    <img src="https://github.com/user-attachments/assets/b50d6218-d7d5-473f-b7ee-61c99f220e80" alt="gasbuddy-scraper-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/gasbuddy-scraper-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/gasbuddy-scraper-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/gasbuddy-scraper-api.svg)](LICENSE)
